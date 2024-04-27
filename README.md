@@ -7,3 +7,4 @@
 3. Enhance marketing: Target specific customer segments with relevant campaigns.
 4. Improve pricing strategy: Adjust prices based on buying patterns and customer willingness to pay.
 5. Increase loyalty: Reward frequent customers and create incentives for repeat purchases.
+### tools used : Excel(xlookup,nested if,pivotchart,slicers,timeline,pivot table,advanced functions)
